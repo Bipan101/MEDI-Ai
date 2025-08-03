@@ -268,15 +268,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email [support@medi-ai.com](mailto:support@medi-ai.com) or create an issue in the GitHub repository.
-
-## 🙏 Acknowledgments
-
-- **Google Gemini AI** for advanced medical analysis capabilities
-- **React & Django communities** for excellent documentation and support
-- **Tailwind CSS** for beautiful and responsive styling
-- **Lucide React** for comprehensive icon library
-
----
-
-**Built with ❤️ for better healthcare accessibility**
+For support, email [info@bipanneupane.com](mailto:info@bipanneupane.com) or create an issue in the GitHub repository.
