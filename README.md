@@ -1,4 +1,4 @@
-# MEDI-AI Complete 🏥🤖
+# MEDI-AI🏥🤖
 
 A comprehensive AI-powered medical analysis platform that enables users to scan and interpret medical documents, analyze medicines, and manage healthcare records with advanced AI capabilities.
 
