@@ -51,7 +51,7 @@ A comprehensive AI-powered medical analysis platform that enables users to scan 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Bipan101/MEDI-Ai.git
-cd MEDI-AI_Complete
+cd Project-Directory
 ```
 
 ### 2. Backend Setup (Django)
